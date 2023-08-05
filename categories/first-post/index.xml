@@ -5,10 +5,8 @@
         <link>https://Derek-00.github.io/categories/first-post/</link>
         <description>Recent content in first post on Derek&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://Derek-00.github.io/categories/first-post/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
-</rss>
-ex.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Derek-00.github.io/categories/first-post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello World</title>
         <link>https://Derek-00.github.io/p/my-first-post/</link>
         <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
